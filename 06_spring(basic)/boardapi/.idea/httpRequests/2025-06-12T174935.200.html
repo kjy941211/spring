@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+
+
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Insert title here</title>
+</head>
+<body>
+<h4>
+    ### Error updating database. Cause: java.sql.SQLIntegrityConstraintViolationException: Column &#039;writer&#039;
+    cannot be null
+    ### The error may involve defaultParameterMap
+    ### The error occurred while setting parameters
+    ### SQL: insert into tbl_board (title, content, writer) values (?, ?, ?)
+    ### Cause: java.sql.SQLIntegrityConstraintViolationException: Column &#039;writer&#039; cannot be null
+    ; Column &#039;writer&#039; cannot be null; nested exception is java.sql.SQLIntegrityConstraintViolationException:
+    Column &#039;writer&#039; cannot be null</h4>
+
+<ul>
+
+    <li>
+        org.springframework.jdbc.support.SQLExceptionSubclassTranslator.doTranslate(SQLExceptionSubclassTranslator.java:87)
+    </li>
+
+    <li>
+        org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:73)
+    </li>
+
+    <li>
+        org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:82)
+    </li>
+
+    <li>org.mybatis.spring.MyBatisExceptionTranslator.translateExceptionIfPossible(MyBatisExceptionTranslator.java:73)
+    </li>
+
+    <li>org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:446)</li>
+
+    <li>jdk.proxy3/jdk.proxy3.$Proxy38.insert(Unknown Source)</li>
+
+    <li>org.mybatis.spring.SqlSessionTemplate.insert(SqlSessionTemplate.java:278)</li>
+
+    <li>org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:58)</li>
+
+    <li>org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:59)</li>
+
+    <li>jdk.proxy3/jdk.proxy3.$Proxy39.create(Unknown Source)</li>
+
+    <li>org.scoula.board.service.BoardServiceImpl.create(BoardServiceImpl.java:65)</li>
+
+    <li>org.scoula.board.controller.BoardController.create(BoardController.java:42)</li>
+
+    <li>java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)</li>
+
+    <li>java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)</li>
+
+    <li>java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)</li>
+
+    <li>java.base/java.lang.reflect.Method.invoke(Method.java:568)</li>
+
+    <li>org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)</li>
+
+    <li>
+        org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+    </li>
+
+    <li>
+        org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+    </li>
+
+    <li>
+        org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:903)
+    </li>
+
+    <li>
+        org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:809)
+    </li>
+
+    <li>
+        org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+    </li>
+
+    <li>org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1072)</li>
+
+    <li>org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:965)</li>
+
+    <li>org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)</li>
+
+    <li>org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)</li>
+
+    <li>javax.servlet.http.HttpServlet.service(HttpServlet.java:555)</li>
+
+    <li>org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)</li>
+
+    <li>javax.servlet.http.HttpServlet.service(HttpServlet.java:623)</li>
+
+    <li>org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:199)</li>
+
+    <li>org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)</li>
+
+    <li>org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)</li>
+
+    <li>org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)</li>
+
+    <li>org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)</li>
+
+    <li>org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)</li>
+
+    <li>org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)</li>
+
+    <li>org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)</li>
+
+    <li>org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)</li>
+
+    <li>org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)</li>
+
+    <li>org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)</li>
+
+    <li>org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)</li>
+
+    <li>org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)</li>
+
+    <li>org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)</li>
+
+    <li>org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)</li>
+
+    <li>org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)</li>
+
+    <li>org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)</li>
+
+    <li>org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)</li>
+
+    <li>org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)</li>
+
+    <li>org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)</li>
+
+    <li>org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1792)</li>
+
+    <li>org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)</li>
+
+    <li>org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)</li>
+
+    <li>org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)</li>
+
+    <li>org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)</li>
+
+    <li>java.base/java.lang.Thread.run(Thread.java:833)</li>
+
+</ul>
+
+</body>
+</html>

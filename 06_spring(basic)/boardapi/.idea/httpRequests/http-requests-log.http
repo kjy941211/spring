@@ -1,0 +1,126 @@
+POST http://localhost:8080/board/update
+Content-Type: application/x-www-form-urlencoded
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=308C40963A7B266725FE0DC275F75B16
+cookie: JSESSIONID=308C40963A7B266725FE0DC275F75B16
+content-length: 42
+
+title=test&content=test&writer=apple2&no=2
+
+<> 2025-06-12T175813.200.html
+
+###
+
+POST http://localhost:8080/board/update
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=308C40963A7B266725FE0DC275F75B16
+cookie: JSESSIONID=308C40963A7B266725FE0DC275F75B16
+content-length: 42
+
+title=test&content=test&writer=apple2&no=2
+
+<> 2025-06-12T175750.200.html
+
+###
+
+POST http://localhost:8080/board/delete
+Content-Type: application/x-www-form-urlencoded
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=308C40963A7B266725FE0DC275F75B16
+cookie: JSESSIONID=308C40963A7B266725FE0DC275F75B16
+content-length: 4
+
+no=1
+
+<> 2025-06-12T175726.200.html
+
+###
+
+POST http://localhost:8080/board/update
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=308C40963A7B266725FE0DC275F75B16
+cookie: JSESSIONID=308C40963A7B266725FE0DC275F75B16
+content-length: 42
+
+title=test&content=test&writer=apple2&no=1
+
+<> 2025-06-12T175558.200.html
+
+###
+
+GET http://localhost:8080/board/get?no=1
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=308C40963A7B266725FE0DC275F75B16
+
+<> 2025-06-12T175352.200.html
+
+###
+
+GET http://localhost:8080/board/get?no=1
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=308C40963A7B266725FE0DC275F75B16
+
+<> 2025-06-12T175306.200.html
+
+###
+
+GET http://localhost:8080/board/create
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=308C40963A7B266725FE0DC275F75B16
+
+<> 2025-06-12T175217.200.html
+
+###
+
+POST http://localhost:8080/board/create
+Content-Type: application/x-www-form-urlencoded
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=446C19C2AAE4BBE08249DE5D1E052D77
+cookie: JSESSIONID=446C19C2AAE4BBE08249DE5D1E052D77
+content-length: 118
+
+title=%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%A0%9C%EB%AA%A9&content=%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%82%B4%EC%9A%A9&writer=apple
+
+<> 2025-06-12T175124.200.html
+
+###
+
+POST http://localhost:8080/board/create
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 105
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=446C19C2AAE4BBE08249DE5D1E052D77
+
+title=%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%A0%9C%EB%AA%A9&content=%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%82%B4%EC%9A%A9
+
+<> 2025-06-12T174935.200.html
+
+###
+
+GET http://localhost:8080/board/list
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-06-12T171309.200.html
+
+###
+

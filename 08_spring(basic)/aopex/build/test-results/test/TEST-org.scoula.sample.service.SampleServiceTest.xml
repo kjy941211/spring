@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.scoula.sample.service.SampleServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-06-19T05:46:24" hostname="DESKTOP-J43DCQB" time="0.025">
+  <properties/>
+  <testcase name="doAdd()" classname="org.scoula.sample.service.SampleServiceTest" time="0.025"/>
+  <system-out><![CDATA[ INFO  org.springframework.test.context.support.DefaultTestContextBootstrapper(getDefaultTestExecutionListenerClassNames:245) - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+ INFO  org.springframework.test.context.support.DefaultTestContextBootstrapper(getTestExecutionListeners:174) - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@6826c41e, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@3003697, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@64d43929, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@1d269ed7, org.springframework.test.context.support.DirtiesContextTestExecutionListener@437ebf59, org.springframework.test.context.event.EventPublishingTestExecutionListener@41c89d2f]
+ INFO  org.scoula.advice.LogAdvice(logBeforeWithParam:15) - str1:123
+ INFO  org.scoula.advice.LogAdvice(logBeforeWithParam:16) - str2:456
+ INFO  org.scoula.sample.service.SampleServiceTest(doAdd:21) - 579
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
