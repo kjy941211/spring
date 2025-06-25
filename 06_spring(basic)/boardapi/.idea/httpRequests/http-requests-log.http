@@ -1,3 +1,93 @@
+GET http://localhost:8080/api/board/get2
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=67DD3C10C64168AF87A533BF2ED44364
+
+<> 2025-06-18T115147.500.txt
+
+###
+
+GET http://localhost:8080/api/board/get?2=
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=67DD3C10C64168AF87A533BF2ED44364
+
+<> 2025-06-18T115134.500.txt
+
+###
+
+GET http://localhost:8080/api/board/get?no=15
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=67DD3C10C64168AF87A533BF2ED44364
+
+<> 2025-06-18T110213.200.json
+
+###
+
+GET http://localhost:8080/api/board/get/15
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=67DD3C10C64168AF87A533BF2ED44364
+
+<> 2025-06-18T110204.200.json
+
+###
+
+GET http://localhost:8080/api/board/get/15
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=67DD3C10C64168AF87A533BF2ED44364
+
+<> 2025-06-18T105029.200.json
+
+###
+
+GET http://localhost:8080/api/board/get?no=15
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=67DD3C10C64168AF87A533BF2ED44364
+
+<> 2025-06-18T103738.200.json
+
+###
+
+GET http://localhost:8080/api/board/get?no=15
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=308C40963A7B266725FE0DC275F75B16
+
+<> 2025-06-18T103714.404.html
+
+###
+
+GET http://localhost:8080/api/board
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=308C40963A7B266725FE0DC275F75B16
+
+<> 2025-06-18T102803.200.json
+
+###
+
+GET http://localhost:8080/api/board
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=308C40963A7B266725FE0DC275F75B16
+
+<> 2025-06-18T102728.200.json
+
+###
+
 POST http://localhost:8080/board/update
 Content-Type: application/x-www-form-urlencoded
 User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5

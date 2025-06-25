@@ -4,7 +4,323 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dccfb840-b914-4516-896d-6ed21983d588" name="Changes" comment="" />
+    <list default="true" id="2a244019-27f7-489b-9e1f-ed6d4a961bee" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../01_jsp(basic)/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_jsp(basic)/.idea/01_jsp(basic).iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_jsp(basic)/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_jsp(basic)/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_jsp(basic)/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_jsp(basic)/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_jsp(basic)/dynamic-web/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_jsp(basic)/dynamic-web/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_jsp(basic)/dynamic-web/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_jsp(basic)/dynamic-web/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_jsp(basic)/dynamic-web/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_jsp(basic)/dynamic-web/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_jsp(basic)/dynamic-web/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_jsp(basic)/dynamic-web/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_jsp(basic)/dynamic-web/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_jsp(basic)/dynamic-web/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_jsp(basic)/dynamic-web/src/main/java/org/scoula/dynamicweb/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_jsp(basic)/dynamic-web/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_jsp(basic)/dynamic-web/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_jsp(basic)/ex02/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_jsp(basic)/ex02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_jsp(basic)/ex02/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_jsp(basic)/ex02/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_jsp(basic)/ex02/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_jsp(basic)/ex02/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_jsp(basic)/ex02/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_jsp(basic)/ex02/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_jsp(basic)/ex02/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_jsp(basic)/ex02/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_jsp(basic)/ex02/src/main/java/org/scoula/ex02/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_jsp(basic)/ex02/src/main/java/org/scoula/ex02/ResponseServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_jsp(basic)/ex02/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_jsp(basic)/ex02/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/01_spring(basic).iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.10/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.10/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.10/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.10/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/scoula/app/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/scoula/app/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/scoula/app/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/scoula/app/Main2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/scoula/app/Main3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/scoula/app/Main3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/scoula/config/ProjectConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/scoula/config/ProjectConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/scoula/config/ProjectConfig2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/scoula/config/ProjectConfig2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/scoula/domain/Parrot.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/scoula/domain/Parrot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/.gradle/8.8/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/.gradle/8.8/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/.gradle/8.8/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/.gradle/8.8/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/.gradle/8.8/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/.gradle/8.8/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/.gradle/8.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/.gradle/8.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/.gradle/8.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/.gradle/8.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/.gradle/8.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/.gradle/8.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/.gradle/8.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/.gradle/8.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/.gradle/8.8/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/.gradle/8.8/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/build/classes/java/main/org/scoula/config/ServletConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/build/classes/java/main/org/scoula/config/ServletConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/build/classes/java/main/org/scoula/config/WebConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/build/classes/java/main/org/scoula/config/WebConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/build/classes/java/main/org/scoula/controller/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/build/classes/java/main/org/scoula/controller/HomeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/build/libs/ex01-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/build/libs/ex01-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/build/resources/main/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/build/resources/main/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-1_spring(basic)/ex01/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/.gradle/8.8/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/.gradle/8.8/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/.gradle/8.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/.gradle/8.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/.gradle/8.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/.gradle/8.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/.gradle/8.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/.gradle/8.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/.gradle/8.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/.gradle/8.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/.gradle/8.8/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/.gradle/8.8/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/build/classes/java/main/org/scoula/config/ServletConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/build/classes/java/main/org/scoula/config/ServletConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/build/classes/java/main/org/scoula/config/WebConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/build/classes/java/main/org/scoula/config/WebConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/build/classes/java/main/org/scoula/controller/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/build/classes/java/main/org/scoula/controller/HomeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/build/classes/java/main/org/scoula/ex03/controller/SampleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/build/classes/java/main/org/scoula/ex03/controller/SampleController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/build/classes/java/main/org/scoula/ex03/dto/SampleDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/build/classes/java/main/org/scoula/ex03/dto/SampleDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/build/libs/ex03-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/build/libs/ex03-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/build/tmp/compileJava/compileTransaction/stash-dir/SampleController.class.uniqueId0" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/build/tmp/compileJava/compileTransaction/stash-dir/SampleController.class.uniqueId0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-2_spring(basic)/ex03/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/.idea/03_jsp(basic).iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/ex03/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/ex03/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/ex03/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/ex03/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/ex03/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/ex03/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/ex03/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/ex03/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/ex03/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/ex03/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/ex03/src/main/java/org/scoula/ex03/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/ex03/src/main/java/org/scoula/ex03/LoginServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/ex03/src/main/java/org/scoula/ex03/SportsServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/ex03/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/ex03/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/ex03/src/main/webapp/login_form.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/ex03/src/main/webapp/sports.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/ex04/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/ex04/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/ex04/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/ex04/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/ex04/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/ex04/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/ex04/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/ex04/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/ex04/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/ex04/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/ex04/src/main/java/org/scoula/ex04/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/ex04/src/main/java/org/scoula/ex04/session/CartDeleteServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/ex04/src/main/java/org/scoula/ex04/session/CartSaveServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/ex04/src/main/java/org/scoula/ex04/session/CartViewServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/ex04/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/ex04/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/ex04/src/main/webapp/session_product.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_jsp(basic)/test (1).sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_spring(basic)/ex04/.gradle/8.8/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_spring(basic)/ex04/.gradle/8.8/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_spring(basic)/ex04/.gradle/8.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_spring(basic)/ex04/.gradle/8.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_spring(basic)/ex04/.gradle/8.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_spring(basic)/ex04/.gradle/8.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_spring(basic)/ex04/.gradle/8.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_spring(basic)/ex04/.gradle/8.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_spring(basic)/ex04/.gradle/8.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_spring(basic)/ex04/.gradle/8.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_spring(basic)/ex04/.gradle/8.8/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_spring(basic)/ex04/.gradle/8.8/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_spring(basic)/ex04/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_spring(basic)/ex04/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_spring(basic)/ex04/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_spring(basic)/ex04/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_spring(basic)/ex04/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_spring(basic)/ex04/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_spring(basic)/ex04/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_spring(basic)/ex04/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_spring(basic)/ex04/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_spring(basic)/ex04/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_spring(basic)/ex04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_spring(basic)/ex04/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_spring(basic)/ex04/build/classes/java/main/org/scoula/config/RootConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_spring(basic)/ex04/build/classes/java/main/org/scoula/config/RootConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_spring(basic)/ex04/build/classes/java/test/org/scoula/config/RootConfigTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_spring(basic)/ex04/build/classes/java/test/org/scoula/config/RootConfigTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_spring(basic)/ex04/build/classes/java/test/org/scoula/mapper/TimeMapperTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_spring(basic)/ex04/build/classes/java/test/org/scoula/mapper/TimeMapperTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_spring(basic)/ex04/build/classes/java/test/org/scoula/persistence/JDBCTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_spring(basic)/ex04/build/classes/java/test/org/scoula/persistence/JDBCTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_spring(basic)/ex04/build/resources/main/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_spring(basic)/ex04/build/resources/main/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_spring(basic)/ex04/build/resources/main/org/scoula/mapper/TimeMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_spring(basic)/ex04/build/resources/main/org/scoula/mapper/TimeMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_spring(basic)/ex04/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_spring(basic)/ex04/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_spring(basic)/ex04/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_spring(basic)/ex04/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_jsp(basic)/ex05/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_jsp(basic)/ex05/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_jsp(basic)/ex05/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_jsp(basic)/ex05/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_jsp(basic)/ex05/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_jsp(basic)/ex05/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_jsp(basic)/ex05/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_jsp(basic)/ex05/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_jsp(basic)/ex05/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_jsp(basic)/ex05/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_jsp(basic)/ex05/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_jsp(basic)/ex05/src/main/java/org/scoula/ex05/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_jsp(basic)/ex05/src/main/java/org/scoula/ex05/LoginServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_jsp(basic)/ex05/src/main/java/org/scoula/ex05/ScopeServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_jsp(basic)/ex05/src/main/java/org/scoula/ex05/domain/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_jsp(basic)/ex05/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_jsp(basic)/ex05/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_jsp(basic)/ex05/src/main/webapp/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_jsp(basic)/ex05/src/main/webapp/login_form.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_jsp(basic)/ex05/src/main/webapp/scope.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/.gradle/8.8/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/.gradle/8.8/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/.gradle/8.8/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/.gradle/8.8/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/.gradle/8.8/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/.gradle/8.8/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/.gradle/8.8/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/.gradle/8.8/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/.gradle/8.8/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/.idea/MyBatisSpringLegacy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/.idea/SpringLegacy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/.idea/modules/MyBatisSpringLegacy.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/.idea/modules/MyBatisSpringLegacy.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/build/classes/java/main/org/scoula/board/domain/BoardVO$BoardVOBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/build/classes/java/main/org/scoula/board/domain/BoardVO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/build/classes/java/main/org/scoula/board/mapper/BoardMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/build/classes/java/main/org/scoula/config/RootConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/build/classes/java/main/org/scoula/config/ServletConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/build/classes/java/main/org/scoula/config/WebConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/build/classes/java/main/org/scoula/controller/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/build/classes/java/main/org/scoula/exception/CommonExceptionAdvice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/build/classes/java/main/org/scoula/mapper/TimeMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/build/classes/java/test/org/scoula/board/mapper/BoardMapperTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/build/classes/java/test/org/scoula/config/RootConfigTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/build/classes/java/test/org/scoula/mapper/TimeMapperTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/build/classes/java/test/org/scoula/persistence/JDBCTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/build/reports/tests/test/classes/org.scoula.board.mapper.BoardMapperTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/build/reports/tests/test/packages/org.scoula.board.mapper.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/build/resources/main/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/build/resources/main/log4j2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/build/resources/main/log4jdbc.log4j2.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/build/resources/main/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/build/resources/main/org/scoula/board/mapper/BoardMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/build/resources/main/org/scoula/mapper/MapperTemplate.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/build/test-results/test/TEST-org.scoula.board.mapper.BoardMapperTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/build/tmp/compileJava/compileTransaction/stash-dir/BoardMapper.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/build/tmp/compileTestJava/compileTransaction/stash-dir/BoardMapperTest.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_spring(basic)/build/tmp/war/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_spring(basic)/board/.gradle/8.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_spring(basic)/board/.gradle/8.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_spring(basic)/board/.gradle/8.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_spring(basic)/board/.gradle/8.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_spring(basic)/board/.gradle/8.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_spring(basic)/board/.gradle/8.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_spring(basic)/board/.gradle/8.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_spring(basic)/board/.gradle/8.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_spring(basic)/board/.gradle/8.8/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_spring(basic)/board/.gradle/8.8/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_spring(basic)/board/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_spring(basic)/board/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_spring(basic)/board/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_spring(basic)/board/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_spring(basic)/board/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_spring(basic)/board/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_spring(basic)/board/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_spring(basic)/board/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_spring(basic)/board/.idea/httpRequests/http-client.cookies" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_spring(basic)/board/.idea/httpRequests/http-client.cookies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_spring(basic)/board/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_spring(basic)/board/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_spring(basic)/board/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_spring(basic)/board/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_spring(basic)/board/build/classes/java/main/org/scoula/board/controller/BoardController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_spring(basic)/board/build/classes/java/main/org/scoula/board/controller/BoardController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_spring(basic)/board/build/classes/java/main/org/scoula/controller/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_spring(basic)/board/build/classes/java/main/org/scoula/controller/HomeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_spring(basic)/board/build/libs/board-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_spring(basic)/board/build/libs/board-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_spring(basic)/board/build/reports/tests/test/classes/org.scoula.board.controller.BoardControllerTest_.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_spring(basic)/board/build/reports/tests/test/classes/org.scoula.board.controller.BoardControllerTest_.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_spring(basic)/board/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_spring(basic)/board/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_spring(basic)/board/build/reports/tests/test/packages/org.scoula.board.controller.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_spring(basic)/board/build/reports/tests/test/packages/org.scoula.board.controller.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_spring(basic)/board/build/test-results/test/TEST-org.scoula.board.controller.BoardControllerTest_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_spring(basic)/board/build/test-results/test/TEST-org.scoula.board.controller.BoardControllerTest_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_spring(basic)/board/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_spring(basic)/board/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_spring(basic)/board/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_spring(basic)/board/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_spring(basic)/board/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_spring(basic)/board/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_spring(basic)/board/build/tmp/compileJava/compileTransaction/stash-dir/BoardController.class.uniqueId0" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_spring(basic)/board/build/tmp/compileJava/compileTransaction/stash-dir/BoardController.class.uniqueId0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_spring(basic)/board/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_spring(basic)/board/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/.gradle/8.8/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/.gradle/8.8/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/.gradle/8.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/.gradle/8.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/.gradle/8.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/.gradle/8.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/.gradle/8.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/.gradle/8.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/.gradle/8.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/.gradle/8.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/.gradle/8.8/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/.gradle/8.8/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/.idea/httpRequests/http-client.cookies" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/.idea/httpRequests/http-client.cookies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/build/classes/java/main/org/scoula/board/service/BoardServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/build/classes/java/main/org/scoula/board/service/BoardServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/build/classes/java/main/org/scoula/config/ServletConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/build/classes/java/main/org/scoula/config/ServletConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/build/classes/java/main/org/scoula/config/WebConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/build/classes/java/main/org/scoula/config/WebConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/build/classes/java/main/org/scoula/controller/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/build/classes/java/main/org/scoula/controller/HomeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/build/libs/boardapi-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/build/libs/boardapi-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/build/resources/main/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/build/resources/main/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_spring(basic)/boardapi/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08_spring(basic)/aopex/.gradle/8.8/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../08_spring(basic)/aopex/.gradle/8.8/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08_spring(basic)/aopex/.gradle/8.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../08_spring(basic)/aopex/.gradle/8.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08_spring(basic)/aopex/.gradle/8.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../08_spring(basic)/aopex/.gradle/8.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08_spring(basic)/aopex/.gradle/8.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../08_spring(basic)/aopex/.gradle/8.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08_spring(basic)/aopex/.gradle/8.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../08_spring(basic)/aopex/.gradle/8.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08_spring(basic)/aopex/.gradle/8.8/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../08_spring(basic)/aopex/.gradle/8.8/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08_spring(basic)/aopex/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../08_spring(basic)/aopex/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08_spring(basic)/aopex/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../08_spring(basic)/aopex/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08_spring(basic)/aopex/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../08_spring(basic)/aopex/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08_spring(basic)/aopex/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../../08_spring(basic)/aopex/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08_spring(basic)/aopex/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../08_spring(basic)/aopex/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08_spring(basic)/aopex/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../08_spring(basic)/aopex/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08_spring(basic)/aopex/build/classes/java/main/org/scoula/advice/LogAdvice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../08_spring(basic)/aopex/build/classes/java/main/org/scoula/advice/LogAdvice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08_spring(basic)/aopex/build/classes/java/main/org/scoula/config/RootConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../08_spring(basic)/aopex/build/classes/java/main/org/scoula/config/RootConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08_spring(basic)/aopex/build/classes/java/main/org/scoula/config/WebConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../08_spring(basic)/aopex/build/classes/java/main/org/scoula/config/WebConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08_spring(basic)/aopex/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../08_spring(basic)/aopex/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08_spring(basic)/aopex/build/reports/tests/test/packages/org.scoula.sample.service.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../08_spring(basic)/aopex/build/reports/tests/test/packages/org.scoula.sample.service.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08_spring(basic)/aopex/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../08_spring(basic)/aopex/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08_spring(basic)/aopex/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/../../08_spring(basic)/aopex/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08_spring(basic)/aopex/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../08_spring(basic)/aopex/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08_spring(basic)/aopex/build/tmp/compileJava/compileTransaction/stash-dir/LogAdvice.class.uniqueId0" beforeDir="false" afterPath="$PROJECT_DIR$/../../08_spring(basic)/aopex/build/tmp/compileJava/compileTransaction/stash-dir/LogAdvice.class.uniqueId0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08_spring(basic)/aopex/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../08_spring(basic)/aopex/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08_spring(basic)/aopex/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../08_spring(basic)/aopex/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09_spring(basic)/secserver/.gradle/8.8/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../09_spring(basic)/secserver/.gradle/8.8/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09_spring(basic)/secserver/.gradle/8.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../09_spring(basic)/secserver/.gradle/8.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09_spring(basic)/secserver/.gradle/8.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../09_spring(basic)/secserver/.gradle/8.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09_spring(basic)/secserver/.gradle/8.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../09_spring(basic)/secserver/.gradle/8.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09_spring(basic)/secserver/.gradle/8.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../09_spring(basic)/secserver/.gradle/8.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09_spring(basic)/secserver/.gradle/8.8/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../09_spring(basic)/secserver/.gradle/8.8/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09_spring(basic)/secserver/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../09_spring(basic)/secserver/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09_spring(basic)/secserver/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../09_spring(basic)/secserver/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09_spring(basic)/secserver/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../09_spring(basic)/secserver/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09_spring(basic)/secserver/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../../09_spring(basic)/secserver/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09_spring(basic)/secserver/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../09_spring(basic)/secserver/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09_spring(basic)/secserver/build/classes/java/main/org/scoula/config/WebConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../09_spring(basic)/secserver/build/classes/java/main/org/scoula/config/WebConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09_spring(basic)/secserver/build/classes/java/main/org/scoula/controller/SecurityController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../09_spring(basic)/secserver/build/classes/java/main/org/scoula/controller/SecurityController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09_spring(basic)/secserver/build/classes/java/main/org/scoula/security/config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../09_spring(basic)/secserver/build/classes/java/main/org/scoula/security/config/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09_spring(basic)/secserver/build/classes/java/test/org/scoula/security/PasswordEncoderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../09_spring(basic)/secserver/build/classes/java/test/org/scoula/security/PasswordEncoderTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09_spring(basic)/secserver/build/libs/secserver-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../09_spring(basic)/secserver/build/libs/secserver-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09_spring(basic)/secserver/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../09_spring(basic)/secserver/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09_spring(basic)/secserver/build/resources/main/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../09_spring(basic)/secserver/build/resources/main/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09_spring(basic)/secserver/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../09_spring(basic)/secserver/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09_spring(basic)/secserver/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/../../09_spring(basic)/secserver/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09_spring(basic)/secserver/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../09_spring(basic)/secserver/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09_spring(basic)/secserver/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../09_spring(basic)/secserver/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09_spring(basic)/secserver/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../09_spring(basic)/secserver/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,15 +334,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
-  <component name="ProjectId" id="2yG1uZMABD7O8ZJEAu9VmYj5OtS" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2yFZJ8i2QGYGa0tqQvgtEjZfLZr" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,7 +354,14 @@
     "Gradle.ex01 [:org.scoula.app.Main.main()].executor": "Run",
     "Gradle.ex01 [:org.scoula.app.Main2.main()].executor": "Run",
     "Gradle.ex01 [:org.scoula.app.Main3.main()].executor": "Run",
+    "Gradle.ex01 [:org.scoula.main.Main.main()].executor": "Run",
+    "Gradle.ex01 [:org.scoula.main.Main2.main()].executor": "Run",
+    "Gradle.ex01.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ASUS/Desktop/spring_practice/01_spring(basic)/ex02",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -45,6 +370,91 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\fullstack\spring\ex01\src\main\java\org\scoula" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.scoula.main" />
+      <recent name="org.scoula.beans" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.org.scoula.main.Main2">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.scoula.app.Main" />
+      <module name="ex01.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.scoula.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.scoula.app.Main2" />
+      <module name="ex01.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.scoula.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.scoula.app.Main3" />
+      <module name="ex01.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.scoula.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.scoula.main.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.scoula.main.Main" />
+      <module name="ex01.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.scoula.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.scoula.main.Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.scoula.main.Main2" />
+      <module name="ex01.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.scoula.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.org.scoula.main.Main2" />
+        <item itemvalue="Application.org.scoula.main.Main" />
+        <item itemvalue="Application.Main3" />
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -56,12 +466,15 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dccfb840-b914-4516-896d-6ed21983d588" name="Changes" comment="" />
-      <created>1749446320434</created>
+      <changelist id="2a244019-27f7-489b-9e1f-ed6d4a961bee" name="Changes" comment="" />
+      <created>1749432209914</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1749446320434</updated>
-      <workItem from="1749446321509" duration="2689000" />
+      <updated>1749432209914</updated>
+      <workItem from="1749432211163" duration="8587000" />
+      <workItem from="1749447198201" duration="30000" />
+      <workItem from="1750231885037" duration="33000" />
+      <workItem from="1750836502291" duration="167000" />
     </task>
     <servers />
   </component>

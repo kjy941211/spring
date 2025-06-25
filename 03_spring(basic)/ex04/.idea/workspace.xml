@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d4f2681-f54f-45c7-9c2c-e9d2688e45b1" name="Changes" comment="" />
+    <list default="true" id="57614f12-5212-452c-a3f9-b5300a689964" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,9 +42,9 @@
     </option>
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 7
+  &quot;associatedIndex&quot;: 6
 }</component>
-  <component name="ProjectId" id="2yOTqJ236RdADejFx1XW5FgdkuR" />
+  <component name="ProjectId" id="2yO0zkEdoJ2aWrh3D0PsseInM4H" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -54,41 +54,39 @@
     "Gradle.Build ex04.executor": "Run",
     "JUnit.JDBCTest.testConnection.executor": "Run",
     "JUnit.RootConfigTest.dataSource.executor": "Run",
-    "JUnit.RootConfigTest.executor": "Run",
-    "JUnit.RootConfigTest.testSqlSessionFactory.executor": "Run",
+    "JUnit.TimeMapperTest.executor": "Run",
     "JUnit.TimeMapperTest.getTime.executor": "Run",
     "JUnit.TimeMapperTest.getTime2.executor": "Run",
-    "JUnit.TimeMppaerTest.getTime.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/ASUS/Desktop/spring_practice/03_spring(basic)/ex04",
+    "last_opened_file_path": "C:/fullstack/spring2/board",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ASUS\Desktop\spring_practice\03_spring(basic)\ex04\src\main\resources" />
+      <recent name="C:\fullstack\spring2\ex04\src\test\resources" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\ASUS\Desktop\spring_practice\03_spring(basic)\ex04\src\test\resources" />
+      <recent name="C:\fullstack\spring2\ex04\src\main\resources\org\scoula\mapper" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="org.scoula.mapper" />
       <recent name="org.scoula.config" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.JDBCTest.testConnection">
+  <component name="RunManager" selected="JUnit.TimeMapperTest.getTime">
     <configuration name="JDBCTest.testConnection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ex04.test" />
       <extension name="coverage">
@@ -117,6 +115,21 @@
       <option name="MAIN_CLASS_NAME" value="org.scoula.config.RootConfigTest" />
       <option name="METHOD_NAME" value="dataSource" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeMapperTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ex04.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.scoula.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.scoula.mapper" />
+      <option name="MAIN_CLASS_NAME" value="org.scoula.mapper.TimeMapperTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -153,33 +166,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimeMppaerTest.getTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ex04.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.scoula.mapper.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.scoula.mapper" />
-      <option name="MAIN_CLASS_NAME" value="org.scoula.mapper.TimeMppaerTest" />
-      <option name="METHOD_NAME" value="getTime" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="SpringLegacy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="SpringLegacy" />
-      <option name="filePath" />
-      <method v="2" />
-    </configuration>
     <configuration name="Tomcat 9.0.105" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.105" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -190,7 +176,7 @@
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="8b2be754-c2af-4660-8004-16e92740780a" />
+        <option name="BASE_DIRECTORY_NAME" value="567ce2b9-b398-4cf1-85da-8ef6b42eb158" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -198,7 +184,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="60399" />
+        <option name="DEBUG_PORT" value="56961" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -270,18 +256,18 @@
     <list>
       <item itemvalue="JUnit.JDBCTest.testConnection" />
       <item itemvalue="JUnit.RootConfigTest.dataSource" />
+      <item itemvalue="JUnit.TimeMapperTest" />
       <item itemvalue="JUnit.TimeMapperTest.getTime" />
       <item itemvalue="JUnit.TimeMapperTest.getTime2" />
-      <item itemvalue="JUnit.TimeMppaerTest.getTime" />
       <item itemvalue="Tomcat Server.Tomcat 9.0.105" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.JDBCTest.testConnection" />
         <item itemvalue="JUnit.TimeMapperTest.getTime" />
         <item itemvalue="JUnit.TimeMapperTest.getTime2" />
+        <item itemvalue="JUnit.TimeMapperTest" />
         <item itemvalue="JUnit.RootConfigTest.dataSource" />
-        <item itemvalue="JUnit.TimeMppaerTest.getTime" />
+        <item itemvalue="JUnit.JDBCTest.testConnection" />
       </list>
     </recent_temporary>
   </component>
@@ -296,17 +282,23 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0d4f2681-f54f-45c7-9c2c-e9d2688e45b1" name="Changes" comment="" />
-      <created>1749704810801</created>
+      <changelist id="57614f12-5212-452c-a3f9-b5300a689964" name="Changes" comment="" />
+      <created>1749690578055</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1749704810801</updated>
-      <workItem from="1749704811909" duration="5925000" />
-      <workItem from="1749717641148" duration="608000" />
+      <updated>1749690578055</updated>
+      <workItem from="1749690579181" duration="9888000" />
+      <workItem from="1749705466589" duration="2487000" />
+      <workItem from="1750231753276" duration="56000" />
+      <workItem from="1750231919241" duration="8000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

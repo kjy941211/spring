@@ -1,3 +1,124 @@
+POST http://localhost:8080/board/update?no=3Content-Type: application/x-www-form-urlencoded
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=D251A0C898C5AA9EC7C686EE9EFCC6A5
+content-length: 0
+
+<> 2025-06-17T112852.200.html
+
+###
+
+GET http://localhost:8080/board/get?no=3
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=D251A0C898C5AA9EC7C686EE9EFCC6A5
+
+<> 2025-06-17T111625.404.html
+
+###
+
+GET http://localhost:8080/board/get?no=9
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=D251A0C898C5AA9EC7C686EE9EFCC6A5
+
+<> 2025-06-17T111616.404.html
+
+###
+
+GET http://localhost:8080/board/get?no=56
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=D251A0C898C5AA9EC7C686EE9EFCC6A5
+
+<> 2025-06-17T111612.404.html
+
+###
+
+GET http://localhost:8080/board/getno=8
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=D251A0C898C5AA9EC7C686EE9EFCC6A5
+
+<> 2025-06-17T111559.404.html
+
+###
+
+GET http://localhost:8080/board/create
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=D251A0C898C5AA9EC7C686EE9EFCC6A5
+
+<> 2025-06-17T110335.200.html
+
+###
+
+GET http://localhost:8080/board/get?no=75
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=D251A0C898C5AA9EC7C686EE9EFCC6A5
+
+<> 2025-06-17T105016.404.html
+
+###
+
+GET http://localhost:8080/board/get?no=2
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=D251A0C898C5AA9EC7C686EE9EFCC6A5
+
+<> 2025-06-17T105006.404.html
+
+###
+
+GET http://localhost:8080/board/get?no=0
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=D251A0C898C5AA9EC7C686EE9EFCC6A5
+
+<> 2025-06-17T104955.404.html
+
+###
+
+GET http://localhost:8080/board/get?no=40
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=D251A0C898C5AA9EC7C686EE9EFCC6A5
+
+<> 2025-06-17T104826.404.html
+
+###
+
+GET http://localhost:8080/board/list
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=D251A0C898C5AA9EC7C686EE9EFCC6A5
+
+<> 2025-06-17T104657.200.html
+
+###
+
+GET http://localhost:8080/board'/list
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=3DB03A860D382ABFBCAAEBF0233BB60B
+
+<> 2025-06-17T104640.404.html
+
+###
+
 POST http://localhost:8080/board/update
 Content-Type: application/x-www-form-urlencoded
 User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5

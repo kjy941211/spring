@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6196cc0-0e0e-4e74-b819-9edb75138070" name="Changes" comment="" />
+    <list default="true" id="b95b1768-0280-4cf2-b8af-735fcf439934" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,21 +112,20 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
+  &quot;associatedIndex&quot;: 4
 }</component>
-  <component name="ProjectId" id="2yLeyOJ4xeeVyGgSpGV2PFSMs4p" />
+  <component name="ProjectId" id="2yLBaRBlto5gM8pNBEpBJj0n07m" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Gradle.Build 02-2_spring(basic).executor": "Run",
     "Gradle.Build ex03.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "Tomcat Server.Tomcat 9.0.105.executor": "Run",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/fullstack/spring2/ex03",
+    "last_opened_file_path": "C:/fullstack/spring2/ex04",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -136,11 +135,26 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\fullstack\spring2\ex03\src\main\webapp\WEB-INF\views\sample" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\ASUS\Desktop\spring_practice\02-2_spring(basic)\src\main\webapp\WEB-INF\views\sample" />
+      <recent name="C:\fullstack\spring2\ex03\src\main\webapp\WEB-INF\views" />
+      <recent name="C:\fullstack\spring2\ex03\src\main\webapp\WEB-INF\views\sample" />
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="SpringLegacy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="SpringLegacy" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
     <configuration name="Tomcat 9.0.105" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.105" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -151,7 +165,7 @@
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="7044c6da-017c-4210-96e5-65eb276b5cd8" />
+        <option name="BASE_DIRECTORY_NAME" value="021a8355-498e-473f-a40a-5e38f9dac03d" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -159,7 +173,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="65369" />
+        <option name="DEBUG_PORT" value="63071" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -240,14 +254,21 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f6196cc0-0e0e-4e74-b819-9edb75138070" name="Changes" comment="" />
-      <created>1749618537209</created>
+      <changelist id="b95b1768-0280-4cf2-b8af-735fcf439934" name="Changes" comment="" />
+      <created>1749604038338</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1749618537209</updated>
-      <workItem from="1749618538328" duration="4292000" />
-      <workItem from="1749623097543" duration="276000" />
-      <workItem from="1749623754632" duration="25000" />
+      <updated>1749604038338</updated>
+      <workItem from="1749604039434" duration="956000" />
+      <workItem from="1749605293723" duration="9151000" />
+      <workItem from="1749618500133" duration="37000" />
+      <workItem from="1749623783089" duration="4638000" />
+      <workItem from="1749630889528" duration="12000" />
+      <workItem from="1749630926820" duration="15000" />
+      <workItem from="1749630970599" duration="630000" />
+      <workItem from="1749688801280" duration="1122000" />
+      <workItem from="1749690187573" duration="8000" />
+      <workItem from="1750231728211" duration="24000" />
     </task>
     <servers />
   </component>
